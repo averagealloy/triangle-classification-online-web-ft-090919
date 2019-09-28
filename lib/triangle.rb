@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 class Triangle
   # write code here
   def initialize(sidea, sideb, sidec)
